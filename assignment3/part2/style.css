@@ -1,14 +1,13 @@
 html {
   font-family: sans-serif;
 }
-
 /* Your CSS below here */
 div {
   width: 350px;
   line-height: 14;
   margin: auto;
   font-size: 1.200rem;
-  background-color: #ef3224;
+  background-color: #e12113;
   color: white;
   text-shadow: 1px 1px 1px black;
   text-align: center;
