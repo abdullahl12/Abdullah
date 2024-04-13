@@ -17,7 +17,7 @@ body {
 }
 
 /* || typography */
-
+/* Changed the header to heacher of the header point h1.h2.h3 and different font and size and color */
 h1{
   font-family: 'Sonsie One', cursive;
   font-size: 3rem;
@@ -73,7 +73,7 @@ article, footer, .secondary {
 article {
   margin-right: 10px;
 }
-
+/* Adjusted with the search bar and the above link */
 nav {
   height: 50px;
   background-color: ff80ff;
@@ -116,7 +116,7 @@ nav.search {
 }
 
 .search input[type="search"] {
-  width: 300px;
+  width: 400px;
   margin-right: auto;
 }
 
