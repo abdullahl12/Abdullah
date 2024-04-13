@@ -81,17 +81,14 @@ nav {
   margin-bottom: 10px;
 }
 
-nav {
-  padding: 0;
+nav ul {
   list-style-type: none;
-  flex: 2;
-  display: flex;
+  padding: 0; 
 }
 
-nav {
+nav ul li {
   display: inline;
-  text-align: center;
-  flex: 1;
+  margin-right: 20px;
 }
 
 nav {
